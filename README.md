@@ -1,1 +1,3 @@
-# Learning_Java
+# Learning Java
+
+Recopilación de código para aprender Java
